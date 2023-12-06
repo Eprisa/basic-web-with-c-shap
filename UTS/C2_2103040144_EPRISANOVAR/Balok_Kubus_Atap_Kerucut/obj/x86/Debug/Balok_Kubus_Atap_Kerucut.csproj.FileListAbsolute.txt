@@ -1,0 +1,5 @@
+C:\Users\ACER\Documents\Pemrograman Lanjut\UTS\C2_2103040144_EPRISANOVAR\Balok_Kubus_Atap_Kerucut\bin\Debug\Balok_Kubus_Atap_Kerucut.exe
+C:\Users\ACER\Documents\Pemrograman Lanjut\UTS\C2_2103040144_EPRISANOVAR\Balok_Kubus_Atap_Kerucut\bin\Debug\Balok_Kubus_Atap_Kerucut.pdb
+C:\Users\ACER\Documents\Pemrograman Lanjut\UTS\C2_2103040144_EPRISANOVAR\Balok_Kubus_Atap_Kerucut\obj\x86\Debug\Balok_Kubus_Atap_Kerucut.exe
+C:\Users\ACER\Documents\Pemrograman Lanjut\UTS\C2_2103040144_EPRISANOVAR\Balok_Kubus_Atap_Kerucut\obj\x86\Debug\Balok_Kubus_Atap_Kerucut.pdb
+C:\Users\ACER\Documents\Pemrograman Lanjut\UTS\C2_2103040144_EPRISANOVAR\Balok_Kubus_Atap_Kerucut\obj\x86\Debug\Balok_Kubus_Atap_Kerucut.csprojResolveAssemblyReference.cache

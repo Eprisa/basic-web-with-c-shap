@@ -1,0 +1,8 @@
+C:\Users\ACER\OneDrive\Documents\Pemrograman Lanjut\UAS\UASPemLan_2103040144\UASPemLan_2103040144\bin\UASPemLan_2103040144.dll
+C:\Users\ACER\OneDrive\Documents\Pemrograman Lanjut\UAS\UASPemLan_2103040144\UASPemLan_2103040144\bin\UASPemLan_2103040144.pdb
+C:\Users\ACER\OneDrive\Documents\Pemrograman Lanjut\UAS\UASPemLan_2103040144\UASPemLan_2103040144\obj\Debug\UASPemLan_2103040144.dll
+C:\Users\ACER\OneDrive\Documents\Pemrograman Lanjut\UAS\UASPemLan_2103040144\UASPemLan_2103040144\obj\Debug\UASPemLan_2103040144.pdb
+C:\Users\ACER\OneDrive\Documents\Pemrograman Lanjut MSV\UAS\UASPemLan_2103040144\UASPemLan_2103040144\bin\UASPemLan_2103040144.dll
+C:\Users\ACER\OneDrive\Documents\Pemrograman Lanjut MSV\UAS\UASPemLan_2103040144\UASPemLan_2103040144\bin\UASPemLan_2103040144.pdb
+C:\Users\ACER\OneDrive\Documents\Pemrograman Lanjut MSV\UAS\UASPemLan_2103040144\UASPemLan_2103040144\obj\Debug\UASPemLan_2103040144.dll
+C:\Users\ACER\OneDrive\Documents\Pemrograman Lanjut MSV\UAS\UASPemLan_2103040144\UASPemLan_2103040144\obj\Debug\UASPemLan_2103040144.pdb

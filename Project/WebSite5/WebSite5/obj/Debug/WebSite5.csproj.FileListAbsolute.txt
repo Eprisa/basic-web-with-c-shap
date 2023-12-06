@@ -1,0 +1,8 @@
+C:\Users\ACER\Documents\Pemrograman Lanjut\Project\WebSite5\WebSite5\bin\WebSite5.dll
+C:\Users\ACER\Documents\Pemrograman Lanjut\Project\WebSite5\WebSite5\bin\WebSite5.pdb
+C:\Users\ACER\Documents\Pemrograman Lanjut\Project\WebSite5\WebSite5\obj\Debug\WebSite5.dll
+C:\Users\ACER\Documents\Pemrograman Lanjut\Project\WebSite5\WebSite5\obj\Debug\WebSite5.pdb
+C:\Users\ACER\OneDrive\Documents\Pemrograman Lanjut\Project\WebSite5\WebSite5\bin\WebSite5.dll
+C:\Users\ACER\OneDrive\Documents\Pemrograman Lanjut\Project\WebSite5\WebSite5\bin\WebSite5.pdb
+C:\Users\ACER\OneDrive\Documents\Pemrograman Lanjut\Project\WebSite5\WebSite5\obj\Debug\WebSite5.dll
+C:\Users\ACER\OneDrive\Documents\Pemrograman Lanjut\Project\WebSite5\WebSite5\obj\Debug\WebSite5.pdb

@@ -1,0 +1,4 @@
+C:\Users\ACER\Documents\Pemrograman Lanjut\Project\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\ACER\Documents\Pemrograman Lanjut\Project\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\ACER\Documents\Pemrograman Lanjut\Project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\ACER\Documents\Pemrograman Lanjut\Project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="WebSite5.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+     body
+     { background-color:Silver;
+       font: 14px arial;
+     }
+     .isi
+     {
+         margin: auto;
+         width: 700px;
+         background-color: White;
+         border: solid 1px black;
+     }
+     .leftColomn
+     {
+         float:left;
+         padding:6px;
+         width:180px;
+     }
+     .rightColumn
+     {
+         float:left;
+         padding:6px;
+         border-left:solid 1px navy;
+     }
+     .clear
+     {
+         clear:both;
+     }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="isi">
+    <div class="leftColumn">
+    <asp:HyperLink ID="hpl1" NavigateUrl="https://ump.ac.id/" runat="server" Text="UMP" />
+    <br />
+    <asp:HyperLink ID="hpl2" NavigateUrl="https://teknik.ump.ac.id/" runat="server" Text="FTS" />
+    <br />
+    <asp:HyperLink ID="hpl3" NavigateUrl="https://informatika.ump.ac.id/" runat="server" Text="TI" />
+    <br />
+    </div>
+
+    <div class="rightColumn">
+    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+
+    </asp:ContentPlaceHolder>
+    </div>
+    </div>
+    <br class="clear" />
+    </form>
+</body>
+</html>

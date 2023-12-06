@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabung_Atap_Kerucut", "Tabung_Atap_Kerucut\Tabung_Atap_Kerucut.csproj", "{B7629686-FD77-4C5B-86C1-77F6DEAA338B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabung_Atap_LimasSegitigaSamaSisi", "Tabung_Atap_LimasSegiTigaSamaSisi\Tabung_Atap_LimasSegitigaSamaSisi.csproj", "{ADEBCB58-FDBE-4C6B-A7CC-BA8E952A84BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balok_Kubus_Atap_Kerucut", "Balok_Kubus_Atap_Kerucut\Balok_Kubus_Atap_Kerucut.csproj", "{FA76EA2C-9765-406D-857B-07AFC7CD156A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kubus_Tabung_Atap_LimasSegitigaSamaSisi", "Kubus_Tabung_Atap_LimasSegitigaSamaSisi\Kubus_Tabung_Atap_LimasSegitigaSamaSisi.csproj", "{EAB1B5F5-FFF1-4056-82AC-3DD8B9892A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7629686-FD77-4C5B-86C1-77F6DEAA338B}.Debug|x86.ActiveCfg = Debug|x86
+		{B7629686-FD77-4C5B-86C1-77F6DEAA338B}.Debug|x86.Build.0 = Debug|x86
+		{B7629686-FD77-4C5B-86C1-77F6DEAA338B}.Release|x86.ActiveCfg = Release|x86
+		{B7629686-FD77-4C5B-86C1-77F6DEAA338B}.Release|x86.Build.0 = Release|x86
+		{ADEBCB58-FDBE-4C6B-A7CC-BA8E952A84BC}.Debug|x86.ActiveCfg = Debug|x86
+		{ADEBCB58-FDBE-4C6B-A7CC-BA8E952A84BC}.Debug|x86.Build.0 = Debug|x86
+		{ADEBCB58-FDBE-4C6B-A7CC-BA8E952A84BC}.Release|x86.ActiveCfg = Release|x86
+		{ADEBCB58-FDBE-4C6B-A7CC-BA8E952A84BC}.Release|x86.Build.0 = Release|x86
+		{FA76EA2C-9765-406D-857B-07AFC7CD156A}.Debug|x86.ActiveCfg = Debug|x86
+		{FA76EA2C-9765-406D-857B-07AFC7CD156A}.Debug|x86.Build.0 = Debug|x86
+		{FA76EA2C-9765-406D-857B-07AFC7CD156A}.Release|x86.ActiveCfg = Release|x86
+		{FA76EA2C-9765-406D-857B-07AFC7CD156A}.Release|x86.Build.0 = Release|x86
+		{EAB1B5F5-FFF1-4056-82AC-3DD8B9892A8D}.Debug|x86.ActiveCfg = Debug|x86
+		{EAB1B5F5-FFF1-4056-82AC-3DD8B9892A8D}.Debug|x86.Build.0 = Debug|x86
+		{EAB1B5F5-FFF1-4056-82AC-3DD8B9892A8D}.Release|x86.ActiveCfg = Release|x86
+		{EAB1B5F5-FFF1-4056-82AC-3DD8B9892A8D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
